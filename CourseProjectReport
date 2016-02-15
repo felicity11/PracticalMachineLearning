@@ -2,11 +2,10 @@
 title: "Practical Machine Learning Course Project Report"
 uthor: "Yu Yang"
 output: html_document
-output:
- html_document:
-  toc: yes
+ +output:
+ +  html_document:
+ +    toc: yes
 ---
-
 
 ```{r prep, echo = F, message = F}
 library(ggplot2)
